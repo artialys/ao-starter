@@ -62,3 +62,4 @@ echo -e "# Annexes" > src/partials/99-appendix.md
 
 # Clean up
 rm -rf init.sh LICENSE README.md
+git commit -am "started project ${PROJECT_NAME}"
